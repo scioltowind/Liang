@@ -1,0 +1,5 @@
+{
+  "name": "專家管理系統",
+  "description": "一個全方位的專家管理系統，具備資料建立、進階搜尋、匯出功能，並整合 Gemini AI 驅動的分析儀表板。",
+  "requestFramePermissions": []
+}
